@@ -25,3 +25,11 @@ Solved some materials and textures issues.
 Elongated the Tutorials-to-be-tested list.
 
 Began using the Asset Browser.
+
+May 12, 2023
+
+I spent little time on Blender today but in exchage I´ve got new hardware.
+
+May 13, 2023
+
+17th birthday! I installed Blender, re downloaded some textures and got ready to worlk.
