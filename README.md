@@ -17,3 +17,11 @@ I learned how to make a lava lamp.
 May 10, 2023
  
 I learned to create a planet in a space background.
+
+May 11, 2023
+
+Solved some materials and textures issues.
+
+Elongated the Tutorials-to-be-tested list.
+
+Began using the Asset Browser.
