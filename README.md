@@ -41,5 +41,5 @@ May 14th, 2023
 My tutorials-to-be-tested list grows consistently. I began work on the pizza logo with success.
 
 May 15, 2023
-I made my first animation ever: A spinning logo.
+I made my first animation ever: A spinning logo. I also learned how to make screen videocaptures.
 
