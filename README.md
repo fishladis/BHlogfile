@@ -1,9 +1,14 @@
 # BHlogfile
-Learning log
 
-Startoff: May 1st, 2023
 
-I spent the first five days learning to use the menus and viewports. I read the history of Blender.
+LEARNING LOG
+
+
+May 1st, 2023
+
+I installed Blender today. 
+
+* I spent the first five days learning to use the menus and viewports. I read the history of Blender.
 
 May 6, 2023
 
@@ -28,8 +33,13 @@ Began using the Asset Browser.
 
 May 12, 2023
 
-I spent little time on Blender today but in exchage I´ve got new hardware.
+I spent little time on Blender today but in exchage I´ve got new hardware and a little commision for a pizza logo.
 
 May 13, 2023
 
-17th birthday! I installed Blender, re downloaded some textures and got ready to worlk.
+17th birthday! I installed Blender, re downloaded some textures and got ready to work.
+
+May 14th, 2023
+
+My tutorials-to-be-tested list grows consistently. I began work on the pizza logo with success.
+
