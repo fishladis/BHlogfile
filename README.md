@@ -33,11 +33,11 @@ Began using the Asset Browser.
 
 May 12, 2023
 
-I spent little time on Blender today but in exchage I´ve got new hardware and a little commision for a pizza logo.
+I spent little time on Blender today but in exchange I´ve got new hardware and a little commision for a pizza logo.
 
 May 13, 2023
 
-17th birthday! I installed Blender, re downloaded some textures and got ready to work.
+Birthday activities. I installed Blender, re-downloaded some textures and got ready to work on my new HP.
 
 May 14th, 2023
 
