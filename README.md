@@ -43,3 +43,5 @@ My tutorials-to-be-tested list grows consistently. I began work on the pizza log
 May 15, 2023
 I made my first animation ever: A spinning logo. I also learned how to make screen videocaptures.
 
+May 17, 2023
+I opened the Video Sequence Editor for the first time, to create a Fade to Black. I built an exhaustive table with all parenting relationship combinations and their results on the camera view. I also fine-tuned sqlogo.blend and rndlogo.blend, ready for further changes.
